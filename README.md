@@ -1,4 +1,4 @@
-# Análisis para la Predicción de tiempo de tránsito y de espera del canal de Panam{a
+# Análisis para la Predicción de tiempo de tránsito y de espera del Canal de Panamá
 
 
 ## Contribuyentes
