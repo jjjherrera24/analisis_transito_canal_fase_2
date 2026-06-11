@@ -60,9 +60,9 @@ Carpeta que almacena todos los conjuntos de datos utilizados en ambas fases del 
 | `transit.parquet` | Registro detallado e histórico de los tránsitos realizados a través del Canal (2019–2023). |
 | `locks_visit.parquet` | Datos sobre las visitas y operaciones en las diferentes esclusas del Canal. |
 | `specs.parquet` | Especificaciones técnicas de las embarcaciones: Gross Tonnage, Deadweight, LBP, potencia instalada, entre otras. |
-| `clima_total_2015_2024.csv` | Registro histórico de variables climáticas (2015–2024) con frecuencia de cuatro horas: temperatura, humedad relativa, velocidad del viento, ráfagas, déficit de presión de vapor y componentes del viento a 950 hPa. |
-| `climate-vars.csv` | Variables climáticas adicionales utilizadas en el análisis de la Fase II. |
-| `Gatun_Lake_Water_Level_History.csv` | Registro histórico del nivel del Lago Gatún, utilizado como variable hidrológica representativa de la capacidad operativa del Canal. |
+| `clima_total_2015_2024.csv` | Registro histórico de variables climáticas (2015–2024) con frecuencia de cuatro horas: Dirección del viento, velocidad del viento. |
+| `climate-vars.csv` | Variables climáticas adicionales utilizadas en el análisis de la Fase II: Temperatura, ráfagas de viento, humedad, precipitación, visibilidad, concentración de nubes. |
+| `Gatun_Lake_Water_Level_History.csv` | Registro histórico del nivel del Lago Gatún, utilizado como variable hidrológica representativa de la capacidad operativa del Canal en la fase II de este proyecto. |
 
 ---
 
