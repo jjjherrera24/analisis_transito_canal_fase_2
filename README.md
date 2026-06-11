@@ -87,14 +87,14 @@ El tiempo de tránsito resultó más predecible, determinado principalmente por 
 
 ## Contribuyentes
 
-Este proyecto fue desarrollado por estudiantes y docentes de la **Universidad Tecnológica de Panamá, Facultad de Ingeniería de Sistemas Computacionales**:
+Este proyecto fue desarrollado por estudiantes de la **Universidad Tecnológica de Panamá**:
 
 * Katherine Batista
 * Kely Feng
 * Jeremías Herrera
 * Victoria Rodríguez
 * Miguel Valzania
-* Dr. Juan Marcos Castillo *(docente supervisor y co-autor)*
+* Dr. Juan Marcos Castillo *(docente supervisor y autor de correspondencia)*
 
 ## Agradecimientos
 
