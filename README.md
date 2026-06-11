@@ -45,8 +45,7 @@ Contiene el trabajo correspondiente a la primera etapa del proyecto, enfocada en
 
 ### 📁 Fase II — Nivel de Agua Lago Gatún + Factores Climáticos Varios
 
-Contiene el trabajo de la segunda etapa del proyecto, que amplía el análisis incorporando el nivel hidrológico del Lago Gatún y un conjunto más completo de variables climáticas. Esta fase culmina en el artículo científico publicado.
-
+Contiene el trabajo de la segunda etapa del proyecto, que amplía el análisis incorporando el nivel hidrológico del Lago Gatún y un conjunto más completo de variables climáticas.
 | Archivo | Descripción |
 |---|---|
 | `Proyecto_Integrador_III_EDA.ipynb` | Notebook principal de la Fase II. Contiene el pipeline completo: ETL avanzado, EDA, alineación temporal de variables meteorológicas e hidrológicas, entrenamiento y evaluación de modelos predictivos (Random Forest, XGBoost, KNN, LightGBM y Redes Neuronales) para `transit_time` y `waiting_time`. |
