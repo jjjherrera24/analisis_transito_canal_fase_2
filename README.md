@@ -52,7 +52,7 @@ Contiene el trabajo de la segunda etapa del proyecto, que amplía el análisis i
 | `Artículo_científico_v3_GrupoCanal.docx` | Versión 3 del artículo científico del proyecto. |
 | `Artículo_científico_v4_GrupoCanal.docx` | Versión final del artículo científico publicado. |
 | `Dashboard.pbix` | Dashboard de Power BI con las visualizaciones e interpretación de resultados de la Fase II. |
-| `Hoja de Ruta_ModeloPredictivodelCanaldePanamá.pdf` | Documento que describe la hoja de ruta metodológica del modelo predictivo desarrollado. |
+| `Hoja de Ruta_ModeloPredictivodelCanaldePanamá.pdf` | Documento que describe la hoja de ruta metodológica con las mejoras para esta fase del proyecto. |
 
 ---
 
