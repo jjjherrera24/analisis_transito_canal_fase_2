@@ -2,11 +2,6 @@
 
 Este repositorio contiene el código, los datos y las visualizaciones utilizadas para el análisis del tránsito en el Canal de Panamá y la creación de modelos predictivos basados en variables operativas, técnicas, meteorológicas e hidrológicas históricas. El estudio cubre el período **2019–2023** e integra información sobre características de embarcaciones, registros operativos del Canal, datos climáticos y el nivel del Lago Gatún.
 
-## Publicación
-
-Este trabajo fue publicado como artículo científico:
-
-> K. Batista, K. Feng, J. Herrera, V. Rodríguez, M. Valzania, J. Castillo, *"Predicción del tiempo de tránsito y espera en el Canal de Panamá mediante modelos de aprendizaje automático y análisis de variables operativas, técnicas y ambientales"*, Revista de I+D Tecnológico, 2026.
 
 ---
 
