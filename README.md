@@ -72,8 +72,8 @@ Las variables objetivo del estudio son el **tiempo de tránsito** (`transit_time
 
 | Variable | Modelo | MAE | MAPE | R² |
 |---|---|---|---|---|
-| Tiempo de tránsito | XGBoost | 0.69 h | 7.82% | 0.73 |
-| Tiempo de espera | XGBoost | 11.85 h | 600.67% | 0.52 |
+| Tiempo de tránsito | Gradient Boosting | 0.69 h | 7.82% | 0.73 |
+| Tiempo de espera | Gradient Boosting | 11.85 h | 600.67% | 0.52 |
 
 El tiempo de tránsito resultó más predecible, determinado principalmente por variables técnicas del buque (Deadweight, LBP, Gross Tonnage, tipo de esclusa). El tiempo de espera mostró mayor variabilidad, influenciado por factores operativos no directamente observables como la asignación de cupos, restricciones hídricas y programación de tránsitos.
 
