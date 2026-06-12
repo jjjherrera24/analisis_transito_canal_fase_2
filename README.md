@@ -68,7 +68,7 @@ Carpeta que almacena todos los conjuntos de datos utilizados en ambas fases del 
 
 ## Resumen de resultados (Fase II)
 
-Las variables objetivo del estudio son el **tiempo de tránsito** (`transit_time`) y el **tiempo de espera** (`waiting_time`). El mejor desempeño fue obtenido con **XGBoost**:
+Las variables objetivo del estudio son el **tiempo de tránsito** (`transit_time`) y el **tiempo de espera** (`waiting_time`). El mejor desempeño fue obtenido con **Gradient Boosting**:
 
 | Variable | Modelo | MAE | MAPE | R² |
 |---|---|---|---|---|
